@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: Math and Stuff
 email: cw23p@fsu.edu 
 description: >- # this means to ignore newlines until "baseurl:"
-  Applied and Computational Mathematics Graduate Student?????
+  Applied and Computational Mathematics Graduate Student
 github_username: ChaseWiederstein
 minimal_mistakes_skin: default
 search: true
@@ -63,8 +63,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChaseWiederstein/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chase-wiederstein-295975224/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:cw23p@fsu.edu"
 
 footer:
   links:
@@ -74,6 +77,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chase-wiederstein-295975224/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:cw23p@fsu.edu"
 
 defaults:
   # _posts
