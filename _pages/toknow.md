@@ -1,1 +1,4 @@
-# Things to know: 
+# Things to know / Blog Ideas: 
+- Dynamic Programming
+- Maximum Principle
+- Measure
